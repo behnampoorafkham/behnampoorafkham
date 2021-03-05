@@ -33,8 +33,6 @@ Object Orientend Programming , Design Patterns
 
 Restful Api
 
-
-
 Kotlin
 
 Docker , Tomcat
@@ -42,3 +40,5 @@ Docker , Tomcat
 Maven , Gradle
 
 Git , Github , Gitlab , Gitflow 
+
+# Find me

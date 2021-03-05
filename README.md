@@ -5,7 +5,10 @@
 
 able to work well both in team
 
+Backend developer and now I am learning the banking industry
+
 Technologies:
+
 Java SE(JDK+8) , java EE , java E2EE
 
 Spring Boot , Spring Data m, Spring Security
@@ -29,6 +32,8 @@ Postgressql , mysql
 Object Orientend Programming , Design Patterns
 
 Restful Api
+
+
 
 Kotlin
 
